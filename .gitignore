@@ -1,0 +1,5 @@
+contact-api
+*.exe
+.env
+.env.*
+!.env.example
